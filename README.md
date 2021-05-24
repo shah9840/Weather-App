@@ -1,4 +1,4 @@
 # Weather-App
 
 
-![Alt text](weathetappimg.png?raw=true "Title")
+![Alt text](weatherappimg.png?raw=true "Title")
